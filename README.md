@@ -28,13 +28,6 @@ Estudiante de Ingeniería de Sistemas, apasionado por el desarrollo de software 
 
 ---
 
-### Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SimplementeHoltman&show_icons=true&hide_title=true&hide_border=true&bg_color=ffffff&text_color=333&icon_color=007ec6)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SimplementeHoltman&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff&text_color=333)
-
----
-
 ### Contacto
 
 - **Correo**: [luis.holtman@protonmail.com](mailto:luis.holtman@protonmail.com)  
